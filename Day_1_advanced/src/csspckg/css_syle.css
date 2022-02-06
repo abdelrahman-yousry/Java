@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 30, 2021, 1:29:15 AM
+    Author     : Abdelrahman Yousry
+*/
+
+#t1 {
+    -fx-fill : red ;
+    -fx-font-weight : bold ;
+    -fx-font-size : 30 ;
+    -fx-box-reflect : below 10 px ;
+}
+
+#r1{
+    -fx-fill : linear-gradient(black , white , black) ;
+}
